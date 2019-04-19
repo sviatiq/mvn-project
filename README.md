@@ -1,1 +1,1 @@
-# mvn-project
+# Maven + Git + JUnit
